@@ -1,4 +1,4 @@
-# Folk Cargo Solution Pvt. Ltd. — Management System
+# Management System
 
 A full desktop management application built with **Java 17 + JavaFX 21**, covering
 the core operations of a cargo/logistics company: transport, shipments, export,
